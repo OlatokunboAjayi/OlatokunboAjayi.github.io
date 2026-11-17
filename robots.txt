@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tokunboajayi.github.io/sitemap.xml
+Sitemap: https://olatokunboajayi.github.io/sitemap.xml
